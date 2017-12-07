@@ -1,7 +1,7 @@
 <template>
  <div>
   <header>
-     <div class="flexbox">哈喽</div>
+     <div class="flexbox">哈喽2342</div>
      <div><img src="../assets/sous_img.png"></div>
   </header>
  </div>
